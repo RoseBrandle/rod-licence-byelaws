@@ -18,7 +18,7 @@ module.exports = {
   // Enable or disable built-in docs and examples.
   useDocumentation: 'true',
 
-  // Force HTTP to redirect to HTTPS on production
+  // Force HTTP to redirect to HTTPs on production
   useHttps: 'true',
 
   // Cookie warning - update link to service's cookie page.
@@ -28,3 +28,5 @@ module.exports = {
   useBrowserSync: 'true'
 
 }
+// byelaws
+// by3l4w

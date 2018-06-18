@@ -1,11 +1,11 @@
-const express = require('express')
-const router = express.Router()
+var express = require('express')
+var router = express.Router()
 
 // Route index page
 router.get('/', function (req, res) {
   res.render('index')
 })
 
-// Add your routes here - above the module.exports line
+// add your routes here
 
 module.exports = router
